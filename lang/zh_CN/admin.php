@@ -155,6 +155,7 @@ return [
     'start_time'            => '开始时间',
     'end_time'              => '结束时间',
     'time_range'            => '有效期',
+    'data_scope'            => '数据权限范围',
     'size'                  => '大小',
     'between_start'         => '起始',
     'between_end'           => '结束',

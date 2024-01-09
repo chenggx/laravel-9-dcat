@@ -14,4 +14,5 @@ Route::group([
 
     $router->get('/', 'HomeController@index');
     $router->resource('auth/users', 'AdminUserController');
+    $router->resource('auth/roles', 'RoleController');
 });
